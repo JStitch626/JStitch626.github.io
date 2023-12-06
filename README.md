@@ -1,2 +1,2 @@
-# JStitch626.github.io
+# Web Development Portfolio
 Aspiring Software Engineer
