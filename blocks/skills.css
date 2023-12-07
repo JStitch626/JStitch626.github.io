@@ -34,3 +34,21 @@
   display: flex;
   flex-direction: column;
 }
+
+/*
+@media screen and (max-width: 1100px) {
+  .skills__section  {
+    margin: 0 20px;
+    max-width: calc(100% - 40px);
+  }
+
+  .skills__title {
+}
+
+@media screen and (max-width: 880px) {}
+@media screen and (max-width: 725px) {}
+@media screen and (max-width: 670px) {}
+@media screen and (max-width: 460px) {}
+@media screen and (max-width: 430px) {}
+@media screen and (max-width: 320px) {}
+} */
