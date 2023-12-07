@@ -50,5 +50,24 @@
 @media screen and (max-width: 670px) {}
 @media screen and (max-width: 460px) {}
 @media screen and (max-width: 430px) {}
-@media screen and (max-width: 320px) {}
-} */
+*/
+@media screen (min-width: 320px) and (max-width: 880px) {
+  .skills__section {
+    width: 100vw;
+  }
+
+  .skills__title {
+    font-size: calc(25px - 90%);
+  }
+
+  .skills__list {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+  .skills__item {
+  }
+
+  .skills__image {
+  }
+}
