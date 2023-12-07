@@ -2,9 +2,11 @@
   min-width: 320px;
   max-width: 1280px;
   margin: 0 auto;
-  background-color: #f7f5ee;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #f5f2e9;
   color: #2c2c2c;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .page__content {
@@ -15,7 +17,11 @@
   max-width: 880px;
   width: 100%;
   position: relative;
-  margin: 0 auto;
+  margin: 0;
+}
+
+.page__image {
+  opacity: 40%;
 }
 
 @media screen and (max-width: 1100px) {
