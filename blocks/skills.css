@@ -51,9 +51,10 @@
 @media screen and (max-width: 460px) {}
 @media screen and (max-width: 430px) {}
 */
-@media screen (min-width: 320px) and (max-width: 880px) {
+@media screen (min-width: 320px) and (max-width: 1100px) {
   .skills__section {
     width: 100vw;
+    height: 100vh;
   }
 
   .skills__title {

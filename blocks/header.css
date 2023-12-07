@@ -22,6 +22,10 @@
   padding: 0;
 }
 
+.header__image {
+  opacity: 40%;
+}
+
 @media screen and (max-width: 880px) {
   .header {
     width: 100%;
