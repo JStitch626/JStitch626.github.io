@@ -26,7 +26,7 @@
   flex-wrap: wrap;
 }
 
-.skills__image {
+.skills__icon {
   margin: 10px;
   padding-bottom: 20px;
   height: 60px;
@@ -36,7 +36,7 @@
 }
 
 @media screen and (max-width: 750px) {
-  .skills__image {
+  .skills__icon {
     margin: 10px;
     padding-bottom: 20px;
     height: 50px;
@@ -47,7 +47,7 @@
 }
 
 @media screen and (max-width: 545px) {
-  .skills__image {
+  .skills__icon {
     margin: 10px;
     padding-bottom: 20px;
     height: 40px;
