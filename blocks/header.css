@@ -13,6 +13,7 @@
   line-height: 1.2;
   margin: 0;
   padding: 0;
+  text-shadow: 3px 2px 2px rgba(132, 150, 135, 0.264);
 }
 
 .header__author {
