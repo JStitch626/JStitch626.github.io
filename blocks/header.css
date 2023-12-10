@@ -24,10 +24,6 @@
 }
 
 @media screen and (max-width: 880px) {
-  .header {
-    width: 100%;
-  }
-
   .header__title {
     font-size: calc(50px - 25%);
   }
@@ -38,10 +34,6 @@
 }
 
 @media screen and (max-width: 725px) {
-  .header {
-    width: 100%;
-  }
-
   .header__title {
     font-size: calc(50px - 50%);
   }
@@ -52,10 +44,6 @@
 }
 
 @media screen and (max-width: 670px) {
-  .header {
-    width: 100%;
-  }
-
   .header__title {
     font-size: calc(50px - 75%);
   }
@@ -66,10 +54,6 @@
 }
 
 @media screen and (max-width: 460px) {
-  .header {
-    width: 100%;
-  }
-
   .header__title {
     font-size: calc(50px - 80%);
   }
@@ -86,10 +70,6 @@
 }
 
 @media screen and (max-width: 320px) {
-  .header {
-    width: 100%;
-  }
-
   .header__title {
     font-size: 30px;
   }

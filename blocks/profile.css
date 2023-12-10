@@ -55,6 +55,8 @@
   border-radius: 50%;
   position: absolute;
   z-index: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 .profile__circle_1 {
