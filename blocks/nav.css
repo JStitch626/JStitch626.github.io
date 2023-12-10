@@ -9,7 +9,12 @@
 
 .nav__link {
   font-family: inherit;
+  font-weight: bold;
   color: #2c2c2c;
   text-decoration: none;
-  font-weight: bold;
+  cursor: pointer;
+}
+
+.nav__link:hover {
+  color: #978648;
 }

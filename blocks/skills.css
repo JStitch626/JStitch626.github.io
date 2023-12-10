@@ -33,6 +33,11 @@
   width: 60px;
   display: flex;
   flex-direction: column;
+  transition: transform 0.4s ease-in;
+}
+
+.skills__icon:hover {
+  transform: scale(1.2);
 }
 
 @media screen and (max-width: 750px) {
