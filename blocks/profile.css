@@ -1,16 +1,3 @@
-@keyframes pulsate {
-  0% {
-    opacity: 0;
-  }
-  50% {
-    opacity: 0.6;
-  }
-  100% {
-    opacity: 0;
-    transform: scale(1.3);
-  }
-}
-
 .profile {
   width: 100vw;
 }
@@ -75,14 +62,6 @@
   height: 285px;
   top: -100px;
   right: -95px;
-}
-
-.profile__circle_1_animation_blurred {
-  animation-name: pulsate;
-  animation-duration: 1.3s;
-  animation-timing-function: ease-in-out;
-  animation-delay: 0s;
-  animation-iteration-count: infinite;
 }
 
 .profile__circle_2 {
