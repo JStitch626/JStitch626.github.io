@@ -9,6 +9,8 @@
   background-color: #eae5d3;
   overflow-x: hidden;
   overflow-y: hidden;
+  /* `width: 100%` causes horizontal scroll in wider viewports.
+     Keep `width: 100%` in media query max-width:610px. */
 }
 
 .profile__section::before {
