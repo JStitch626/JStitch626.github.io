@@ -1,13 +1,12 @@
 # Web Development Portfolio
 
-## Aspiring Software Engineer
+Aspiring Software Engineer
 
 ## Description
 
 This is currently a work in progress... not all sections or media queries have been created yet.
 
-Portfolio link: [jstitch626.github.io/]https://jstitch626.github.io/
-
+Portfolio link: [jstitch626.github.io/](https://jstitch626.github.io/)
 
 ## Project features
 
