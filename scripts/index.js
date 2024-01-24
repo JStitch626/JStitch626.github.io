@@ -20,7 +20,7 @@ const skillsItems = [
 
   {
     name: "Github",
-    link: "../images/github.svg",
+    link: "../images/github-iconmonstr-3.svg",
   },
 
   {

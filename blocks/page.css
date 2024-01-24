@@ -1,5 +1,6 @@
 .page {
-  /* min-width: 320px; */
+  min-width: 320px;
+  max-width: 1080px;
   margin: 0 auto;
   padding: 0;
   overflow-x: hidden;

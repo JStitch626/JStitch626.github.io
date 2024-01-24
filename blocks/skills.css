@@ -1,5 +1,5 @@
 .skills__section {
-  background-color: #222623;
+  background-color: #41403a;
   color: #f7f5ee;
   margin: 0;
   padding: 20px;
@@ -51,7 +51,7 @@
   }
 }
 
-@media screen and (max-width: 545px) {
+@media screen and (max-width: 610px) {
   .skills__icon {
     margin: 10px;
     padding-bottom: 20px;
