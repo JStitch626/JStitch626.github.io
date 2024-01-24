@@ -1,9 +1,12 @@
+.nav {
+  margin: 0;
+}
 .nav__links {
   display: flex;
   column-gap: 20px;
   list-style-type: none;
-  padding: 15px;
-  margin: 8px 0 0;
+  margin: 8px 5px;
+  padding: 0;
   justify-content: right;
 }
 

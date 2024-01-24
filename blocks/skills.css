@@ -3,6 +3,7 @@
   color: #f7f5ee;
   margin: 0;
   padding: 20px;
+  /* width: 100%; */
 }
 
 .skills__title {
@@ -52,6 +53,14 @@
 }
 
 @media screen and (max-width: 610px) {
+  .skills__section {
+    width: 100%;
+  }
+
+  .skills__list {
+    max-width: 100%;
+  }
+
   .skills__icon {
     margin: 10px;
     padding-bottom: 20px;
@@ -61,3 +70,13 @@
     flex-direction: column;
   }
 }
+
+/* @media screen and (max-width: 410px) {
+  .skills__section {
+    width: 100%;
+  }
+
+  .skills__list {
+    max-width: 100%;
+  }
+} */
